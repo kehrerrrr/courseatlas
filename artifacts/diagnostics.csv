@@ -1,0 +1,16 @@
+persona,model,returned,unique_titles,topical_count,fallback_count,mean_title_similarity
+Synthetic: data learner,Popular,5,5,4,0,0.22103773636555052
+Synthetic: data learner,unigram_w15,5,5,5,0,0.7094073915686399
+Synthetic: data learner,unigram_w30,5,5,5,0,0.6960844537365591
+Synthetic: data learner,bigram_w15,5,5,5,0,0.5497696077937672
+Synthetic: data learner,bigram_w30,5,5,5,0,0.5497696077937672
+Synthetic: business learner,Popular,5,5,0,0,0.0
+Synthetic: business learner,unigram_w15,5,5,5,0,0.4457107149455964
+Synthetic: business learner,unigram_w30,5,5,5,0,0.42403765915678876
+Synthetic: business learner,bigram_w15,5,5,5,0,0.3132281613366733
+Synthetic: business learner,bigram_w30,5,5,5,0,0.29578064900453116
+Synthetic: wellbeing learner,Popular,5,5,0,0,0.0
+Synthetic: wellbeing learner,unigram_w15,5,5,5,0,0.46110918380697985
+Synthetic: wellbeing learner,unigram_w30,5,5,5,0,0.46110918380697985
+Synthetic: wellbeing learner,bigram_w15,5,5,5,0,0.33950568703014333
+Synthetic: wellbeing learner,bigram_w30,5,5,5,0,0.33950568703014333

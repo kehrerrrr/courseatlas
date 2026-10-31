@@ -1,0 +1,28 @@
+{
+  "source": "https://www.kaggle.com/datasets/siddharthm1698/coursera-course-dataset/data",
+  "raw_rows": 891,
+  "missing_before": {
+    "course_title": 0,
+    "course_organization": 0,
+    "course_Certificate_type": 0,
+    "course_rating": 0,
+    "course_difficulty": 0,
+    "course_students_enrolled": 0
+  },
+  "exact_duplicates": 0,
+  "empty_title_rows_removed": 0,
+  "missing_or_invalid_ratings": 0,
+  "missing_or_invalid_enrollment": 0,
+  "duplicate_titles_removed": 3,
+  "clean_rows": 888,
+  "difficulty_counts": {
+    "Beginner": 486,
+    "Intermediate": 197,
+    "Mixed": 186,
+    "Advanced": 19
+  },
+  "organizations": 154,
+  "average_known_rating": 4.677252252252253,
+  "raw_file": "coursea_data.csv",
+  "raw_sha256": "0c460da20cc9082c5a2ec0472f166f15be3e94bf14426a70db85b30b043b8b29"
+}

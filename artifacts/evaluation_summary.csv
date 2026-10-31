@@ -1,0 +1,16 @@
+persona,model,precision_at_5,status
+Synthetic: business learner,Popular,,Not evaluated: human labels required.
+Synthetic: business learner,bigram_w15,,Not evaluated: human labels required.
+Synthetic: business learner,bigram_w30,,Not evaluated: human labels required.
+Synthetic: business learner,unigram_w15,,Not evaluated: human labels required.
+Synthetic: business learner,unigram_w30,,Not evaluated: human labels required.
+Synthetic: data learner,Popular,,Not evaluated: human labels required.
+Synthetic: data learner,bigram_w15,,Not evaluated: human labels required.
+Synthetic: data learner,bigram_w30,,Not evaluated: human labels required.
+Synthetic: data learner,unigram_w15,,Not evaluated: human labels required.
+Synthetic: data learner,unigram_w30,,Not evaluated: human labels required.
+Synthetic: wellbeing learner,Popular,,Not evaluated: human labels required.
+Synthetic: wellbeing learner,bigram_w15,,Not evaluated: human labels required.
+Synthetic: wellbeing learner,bigram_w30,,Not evaluated: human labels required.
+Synthetic: wellbeing learner,unigram_w15,,Not evaluated: human labels required.
+Synthetic: wellbeing learner,unigram_w30,,Not evaluated: human labels required.
